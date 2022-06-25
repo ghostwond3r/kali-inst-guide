@@ -16,7 +16,9 @@
 
 5- Open VirtualBox and follow instructions of installation.
 
-6- Click “file” in the menu, and under “extension”, you add the extension pack you downloaded previously.
+6- Click “file” in the menu, and under "preferences" and then “extension”, you add the extension pack you downloaded previously.
+
+![8](https://user-images.githubusercontent.com/64184513/175776890-4f44fdbd-97ec-4bf9-bcf1-8db3aafa4459.jpg)
 
 7- Click “file” in the menu again, then click on “Import Appliance”.
 
