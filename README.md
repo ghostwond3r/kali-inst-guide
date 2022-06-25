@@ -1,6 +1,6 @@
 # How to install Kali Linux in VirtualBox on Windows - Step by Step
 -----------------------------------------------
-- Last update: 24/06/2022
+- Last update: 25/06/2022
 
 - NOTES: The following links will download files automaticaly, so only click on it from where you are going to install it! 
 ----------------------------------------------  
