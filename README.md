@@ -1,12 +1,12 @@
 # How to install Kali Linux in VirtualBox on Windows - Step by Step
 -----------------------------------------------
-- Last update: 25/06/2022
+- Last update: 20/07/2022
 
 - NOTES: The following links will download files automaticaly, so only click on it from where you are going to install it! 
 ----------------------------------------------  
-1- Download VirtualBox: https://download.virtualbox.org/virtualbox/6.1.34/VirtualBox-6.1.34a-150636-Win.exe
+1- Download VirtualBox: https://download.virtualbox.org/virtualbox/6.1.36/VirtualBox-6.1.36-152435-Win.exe
 
-2- Download the extensions pack: https://download.virtualbox.org/virtualbox/6.1.34/Oracle_VM_VirtualBox_Extension_Pack-6.1.34.vbox-extpack
+2- Download the extensions pack: https://download.virtualbox.org/virtualbox/6.1.36/Oracle_VM_VirtualBox_Extension_Pack-6.1.36a-152435.vbox-extpack
 
 3- Download kali Linux: https://kali.download/virtual-images/kali-2022.2/kali-linux-2022.2-virtualbox-amd64.ova
 
