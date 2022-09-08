@@ -1,16 +1,21 @@
-# How to install Kali Linux in VirtualBox on Windows - Step by Step
------------------------------------------------
-- Last update: 07/09/2022
+# How to install VirtualBox & Kali Linux on Windows - Step by Step
 
-- NOTES: The following links will download files automaticaly, so only click on it from where you are going to install it! 
-----------------------------------------------  
+| Last update: 07/09/2022
+
+## WARNING : The following links will download files automaticaly, so only click on it from where you are going to install it! 
+
 1- Download VirtualBox: 
-    * For Windows: https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe
-    * For Linux (Debian 11): https://download.virtualbox.org/virtualbox/6.1.38/virtualbox-6.1_6.1.38-153438~Debian~bullseye_amd64.deb
 
-2- Download the extensions pack: https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack
+   * For Windows: https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe
+   * For Linux (Debian 11): https://download.virtualbox.org/virtualbox/6.1.38/virtualbox-6.1_6.1.38-153438~Debian~bullseye_amd64.deb
 
-3- Download kali Linux: https://kali.download/virtual-images/kali-2022.3/kali-linux-2022.3-virtualbox-amd64.7z
+2- Download the extensions pack: 
+
+   * https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack
+
+3- Download kali Linux: 
+
+   * https://kali.download/virtual-images/kali-2022.3/kali-linux-2022.3-virtualbox-amd64.7z
 
 4- You must activate the Windows Subsystem for Linux. To do this, type “Windows Features” in the search bar of the Windows menu, then open, scroll down and check the box “Windows Subsystem for Linux”, then save, exit and restart your computer.
 
