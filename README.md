@@ -27,17 +27,15 @@
 
 ![8](https://user-images.githubusercontent.com/64184513/175776890-4f44fdbd-97ec-4bf9-bcf1-8db3aafa4459.jpg)
 
-7- Click “file” in the menu again, then click on “Import Appliance”.
+7- You will need a program to extract Kali from the .zip file. 
 
-![1](https://user-images.githubusercontent.com/64184513/175776398-7038d85a-a306-4c4c-ad89-325b5c938383.jpg)
+You can download it here : [7-zip](https://www.7-zip.org/download.html)
 
-8- Select the Kali you downloaded (.ova file) and click on continue.
+8- Open your download folder and double click on the .zip of kali, create a folder on your desktop and extract inside.
 
-![2](https://user-images.githubusercontent.com/64184513/175776400-a41767db-3686-4a3b-b978-bf136286f9f0.jpg)
+9- Now open this folder and double click on the .vbox file (the blue one) and follow instructions.
 
-9- Click on “import”
-
-![3](https://user-images.githubusercontent.com/64184513/175776402-4eff95b8-9785-47e1-9877-67df34d808e2.jpg)
+![1](https://user-images.githubusercontent.com/64184513/196248353-103d6d04-bc9a-4e6d-96df-6a1fe4fb753c.png)
 
 10- Open the “configuration” of your new Kali, and idealy put at least 2 CPU for perfomance purpose + 4GB RAM. (do not overpass the red line)
 
