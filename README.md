@@ -6,12 +6,11 @@
 
 1- Download VirtualBox: 
 
-   * For Windows: https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe
-   * For Linux (Debian 11): https://download.virtualbox.org/virtualbox/6.1.38/virtualbox-6.1_6.1.38-153438~Debian~bullseye_amd64.deb
+   * For Windows: https://download.virtualbox.org/virtualbox/7.0.2/VirtualBox-7.0.2-154219-Win.exe
 
 2- Download the extensions pack: 
 
-   * https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack
+   * https://download.virtualbox.org/virtualbox/7.0.2/Oracle_VM_VirtualBox_Extension_Pack-7.0.2.vbox-extpack
 
 3- Download kali Linux: 
 
