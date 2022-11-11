@@ -48,17 +48,9 @@ You can download it here : [7-zip](https://www.7-zip.org/download.html)
 12- Exit the setting pannel.
 
 13- Start Kali, you will arrived on the login screen:
+```
 Username: kali
 Password: kali
+```
+## Congrats, you got it. To continue further : [Learning Kali Step by Step with Self-Way](https://github.com/NeverWonderLand/Self-Way)
 
----------------------------------------
-## Starting With Kali Linux - Step by Step
-
-- Now that you are in your new machine, click on the menu and open a ROOT terminal (the red one)
-password: kali
-
-type this command;
-
-    apt-get update && apt-get upgrade -y
-- Now we will continue on this page!
-https://github.com/NeverWonderLand/no-more.git
