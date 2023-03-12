@@ -1,4 +1,4 @@
-# Install Kali Linux in VirtualBox on Windows // Step by Step
+## Install Kali Linux in VirtualBox on Windows // Step by Step
 
 | Last update: 12 March 2023
 
@@ -24,7 +24,7 @@
 
 6- Click “file” in the menu, then on "tools" and choose “Extension Pack Manager”. Now click on the "Install" and then choose the extension pack you downloaded.
 
-![8](https://user-images.githubusercontent.com/64184513/175776890-4f44fdbd-97ec-4bf9-bcf1-8db3aafa4459.jpg)
+![ext_pack_manager](https://user-images.githubusercontent.com/64184513/224564251-e4c33401-6178-4548-9737-b1d6af4fa85f.png)
 
 7- You will need a program to extract Kali from the .zip file you downloaded.
 
