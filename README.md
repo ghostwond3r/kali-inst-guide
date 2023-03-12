@@ -1,16 +1,16 @@
-# How to install VirtualBox & Kali Linux on Windows - Step by Step
+# Install Kali Linux in VirtualBox on Windows // Step by Step
 
-| Last update: 15/12/2022
+| Last update: 12 March 2023
 
 ## WARNING : The following links will download files automaticaly, so only click on it from where you are going to install it! 
 
 1- Download VirtualBox: 
 
-   * For Windows: https://download.virtualbox.org/virtualbox/7.0.4/VirtualBox-7.0.4-154605-Win.exe
+   * For Windows: https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
 
 2- Download the extensions pack: 
 
-   * https://download.virtualbox.org/virtualbox/7.0.4/Oracle_VM_VirtualBox_Extension_Pack-7.0.4.vbox-extpack
+   * https://download.virtualbox.org/virtualbox/7.0.6/Oracle_VM_VirtualBox_Extension_Pack-7.0.6a-155176.vbox-extpack
 
 3- Download kali Linux: 
 
@@ -22,15 +22,15 @@
 
 5- Open VirtualBox and follow instructions of installation.
 
-6- Click “file” in the menu, and under "preferences" and then “extension”, you add the extension pack you downloaded previously.
+6- Click “file” in the menu, then on "tools" and choose “Extension Pack Manager”. Now click on the "Install" and then choose the extension pack you downloaded.
 
 ![8](https://user-images.githubusercontent.com/64184513/175776890-4f44fdbd-97ec-4bf9-bcf1-8db3aafa4459.jpg)
 
-7- You will need a program to extract Kali from the .zip file. 
+7- You will need a program to extract Kali from the .zip file you downloaded.
 
 You can download it here : [7-zip](https://www.7-zip.org/download.html)
 
-8- Open your download folder and double click on the .zip of kali, create a folder on your desktop and extract inside.
+8- Once 7zip is install, open your download folder and double click on the .zip of kali, create a folder on your desktop and extract inside.
 
 9- Now open this folder and double click on the .vbox file (the blue one) and follow instructions.
 
