@@ -2,7 +2,7 @@
 
 | Last update: 12 March 2023
 
-## WARNING : The following links will download files automaticaly, so only click on it from where you are going to install it! 
+### WARNING : The following links will download files automaticaly, so only click on it from where you are going to install it! 
 
 1- Download VirtualBox: 
 
@@ -36,12 +36,12 @@ You can download it here : [7-zip](https://www.7-zip.org/download.html)
 
 ![1](https://user-images.githubusercontent.com/64184513/196248353-103d6d04-bc9a-4e6d-96df-6a1fe4fb753c.png)
 
-10- Open the “configuration” of your new Kali, and idealy put at least 2 CPU for perfomance purpose + 4GB RAM. (do not overpass the red line)
+10- Now click on “Settings”, and under "System" / "Motherboard", at "base memory" ideally put at least 4GB RAM, but don't overpass the red line. At "Boot order" put "Hard disk" at first, then "Optical" and remove "Floppy". Then under "System" / "Processor" put at least 2 CPU, but again don't overpass the red line.
 
 ![4](https://user-images.githubusercontent.com/64184513/175776404-1eb16270-54d3-4d42-9741-2d2bbb0ce29b.jpg)
 ![5](https://user-images.githubusercontent.com/64184513/175776405-1227974e-c82f-4272-9b58-8163c14687e0.jpg)
 
-11- Under “network” section, set the “Attached to” to “Bridge Adapter” and randomize the Mac address.
+11- Under “network” section, set the “Attached to” to “Bridge Adapter” and under "Advanced" click on the 2 arrow to randomize the Mac address.
 
 ![7](https://user-images.githubusercontent.com/64184513/175776409-de0300c0-4908-4e94-ac28-6ac0e980f2b0.jpg)
 
