@@ -6,15 +6,15 @@
 
 1- Download VirtualBox: 
 
-   * For Windows: https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
+   * For Windows: (https://download.virtualbox.org/virtualbox/7.0.10/VirtualBox-7.0.10-158379-Win.exe)
 
 2- Download the extensions pack: 
 
-   * https://download.virtualbox.org/virtualbox/7.0.6/Oracle_VM_VirtualBox_Extension_Pack-7.0.6a-155176.vbox-extpack
+   * https://download.virtualbox.org/virtualbox/7.0.10/Oracle_VM_VirtualBox_Extension_Pack-7.0.10.vbox-extpack
 
 3- Download kali Linux: 
 
-   * https://cdimage.kali.org/kali-2022.4/kali-linux-2022.4-virtualbox-amd64.7z
+   * https://cdimage.kali.org/kali-2023.2/kali-linux-2023.2-virtualbox-amd64.7z
 
 4- You must activate the Windows Subsystem for Linux. To do this, type “Windows Features” in the search bar of the Windows menu, then open, scroll down and check the box “Windows Subsystem for Linux”, then save, exit and restart your computer.
 
