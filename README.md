@@ -14,7 +14,7 @@
 
 3- Download kali Linux: 
 
-   * https://cdimage.kali.org/kali-2023.2/kali-linux-2023.2-virtualbox-amd64.7z
+   * https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-virtualbox-amd64.7z
 
 4- You must activate the Windows Subsystem for Linux. To do this, type “Windows Features” in the search bar of the Windows menu, then open, scroll down and check the box “Windows Subsystem for Linux”, then save, exit and restart your computer.
 
